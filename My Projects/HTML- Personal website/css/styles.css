@@ -1,0 +1,17 @@
+body {
+  background-color: #dfd3c3;
+}
+
+hr {
+  border-style: dotted;
+  border-color: #c19065;
+  border-width: 10px 0 0 0;
+  width: 10%;
+}
+
+h1:MyHeader{
+  color: #c19065;
+}
+h3{
+    color: #c19065;
+}
